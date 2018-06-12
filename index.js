@@ -65,4 +65,4 @@ var MainServer = /** @class */ (function () {
     return MainServer;
 }());
 exports.MainServer = MainServer;
-
+new MainServer();
